@@ -4,7 +4,7 @@
     { "src": "*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/asif", "dest": "/asif.js" },
+    { "src": "/zubair", "dest": "/zubair.js" },
         { "src": "/mashoq", "dest": "/mashoq.js" },
     { "src": "/mashoqpass", "dest": "/mashoqpass.js" },
 { "src": "/fm", "dest": "/fm.js" },
